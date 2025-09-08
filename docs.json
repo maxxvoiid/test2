@@ -7,7 +7,7 @@
     "light": "#55D799",
     "dark": "#0D9373"
   },
-  "favicon": "/vctfavicon.svg",
+  "favicon": "/favicon.svg",
   "icons": {
     "library": "lucide"
   },
@@ -260,8 +260,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/vctlight.svg",
-    "dark": "/logo/vctdark.svg",
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg",
     "href": "https://mintlify.com/docs"
   },
   "api": {
@@ -351,7 +351,7 @@
     ]
   },
   "thumbnails": {
-    "background": "/images/thumbnail/embedback.svg"
+    "background": "/images/thumbnail/background.svg"
   },
   "contextual": {
     "options": [
