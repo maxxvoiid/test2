@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Mintlify",
+  "name": "VCT Docs",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#55D799",
-    "dark": "#0D9373"
+    "primary": "#ffa800",
+    "light": "#ffa521",
+    "dark": "#ffa800"
   },
   "favicon": "/favicon.svg",
   "icons": {
