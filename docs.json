@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "VCT Docs",
   "colors": {
-    "primary": "#ffa800",
-    "light": "#ffa521",
-    "dark": "#ffa800"
+    "primary": "#0D9373",
+    "light": "#55D799",
+    "dark": "#0D9373"
   },
   "favicon": "/favicon.png",
   "icons": {
