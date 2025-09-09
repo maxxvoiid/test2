@@ -7,7 +7,7 @@
     "light": "#ffa521",
     "dark": "#ffa800"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "icons": {
     "library": "lucide"
   },
@@ -351,7 +351,7 @@
     ]
   },
   "thumbnails": {
-    "background": "/images/thumbnail/background.svg"
+    "background": "/images/thumbnail/background.png"
   },
   "contextual": {
     "options": [
