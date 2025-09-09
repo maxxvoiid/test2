@@ -21,7 +21,7 @@
           {
             "group": "Getting started",
             "pages": [
-              "introduction",
+              "index",
               "quickstart",
               "installation",
               "editor"
@@ -350,8 +350,12 @@
       }
     ]
   },
-  "thumbnails": {
-    "background": "/images/thumbnail/background.png"
+  "seo": {
+    "metatags": {
+      "og:image": "/images/thumbnail/background.png",
+      "og:title": "Título por defecto para compartir",
+      "og:description": "Descripción por defecto del sitio"
+    }
   },
   "contextual": {
     "options": [
